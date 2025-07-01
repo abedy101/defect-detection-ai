@@ -38,7 +38,7 @@ This demo uses a public YOLOv8 model. It detected the following objects in a bus
 **Input Image**
 `demo/sample-street.jpg`
 
-![Sample Detection](demo/sample-street.jpg)
+![Sample Detection](demo/sample-street-detected.jpg)
 
 **Generated Detection Report**
 
