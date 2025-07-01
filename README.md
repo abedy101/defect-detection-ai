@@ -59,24 +59,22 @@ bicycle – Confidence: 0.43
 
 ## Quickstart (For Developers)
 
-git clone https://github.com/yourusernameAbedy101/defect-detection-ai
+git clone https://github.com/abedy101/defect-detection-ai
 cd defect-detection-ai
 pip install -r requirements.txt
 streamlit run app.py
-
 
 ---
 
 ## Folder Structure
 
 defect-detection-ai/
-├── demo/ # Sample images like sample-street.jpg
-├── model/ # Your trained YOLOv8 model as defects.pt
-├── app.py # Streamlit app interface
-├── detect.py # Detection logic
-├── requirements.txt # Dependencies
-└── README.md
-
+├── demo/             # Sample images like sample-street.jpg  
+├── model/            # Your trained YOLOv8 model as defects.pt  
+├── app.py            # Streamlit app interface  
+├── detect.py         # Detection logic  
+├── requirements.txt  # Dependencies  
+└── README.md         # Project overview and usage
 
 ---
 
